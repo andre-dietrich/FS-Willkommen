@@ -27,35 +27,35 @@ Es sind viele Menschen notwendig, damit du eine qualitativ hochwertige Ausbildun
 
 **Nadine Linde - Das Herz der Pädagogika**
 ===
-![Nadine Linde] ()
-
-Herzlich Willkommen in der PÄDAGOGIKA Fachschule! Ich freue mich darauf euch
+![Nadine Linde](https://paedagogika.com/paedagogika/team/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=nadine-linde.jpg)Herzlich Willkommen in der PÄDAGOGIKA Fachschule! Ich freue mich darauf euch
 kennenzulernen und werde euch jeden Tag am Empfang begrüßen. Mein Name ist Nadine Linde, ich bin Kindheitspädagogin und war zu Beginn meiner beruflichen Laufbahn als Erzieherin in einer Kita tätig. Während meines Masterstudiums „frühkindliche
 Bildungsforschung“ konnte ich Erfahrungen in Forschungsprojekten und als Dozentin in der Forscherwelt Blossin sammeln. Seit 2021 bin ich Mitarbeiterin der Pädagogika und als eine Art Verbindungsstelle zwischen Praxis und Forschung übernehme ich die Orga-nisation und Verwaltung unseres Weiterbildungsprogrammes sowie das Sekretariat der Fachschule. Gern bin ich für jegliche Fragen, Anmerkungen und andere Belange von eu-rer Seite da. Sprecht mich einfach an.
 <iframe src="https://app.Lumi.education/api/v1/run/Kbms6R/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
 **Anja Günther-Richter - Das Head of**
 ===
-![Anja Günther-Richter] ()
+![Anja Günther-Richter](https://paedagogika.com/paedagogika/team/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=anja-guenther.jpg)
 ....
 <iframe src="https://app.Lumi.education/api/v1/run/PY538J/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
 **Sandra Schmidt- Das Head of +2**
 ===
-![Sandra Schmidt] ()
+![Sandra Schmidt](https://paedagogika.com/paedagogika/team/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=sandra-schmidt.jpg)
 ....
 <iframe src="https://app.Lumi.education/api/v1/run/2-Yd3_/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
 **Andrea Hoppe- Organisatorische Schulleitung**
 ===
-![Andrea Hoppe] ()
-....
+![Andrea Hoppe - Organisatorische Schulleitung](https://paedagogika.com/paedagogika/team/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=andrea-hoppe.jpg)
+Seit bald vierzig Jahren beschäftige ich mich mit pädagogischen Themen. Erst selbst als Erzieherin in unterschiedlichen Arbeitsfeldern in Berlin und nach dem Studium war ich bald als Dozentin in Aus- und Weiterbildung für ErzieherInnen an unterschiedlichen Standorten in Berlin und Brandenburg tätig. Im Team mit Stefan Hierholzer Bildungswege in der Pädagogika Fachschule für Sozialwesen zu begleiten, ist meine Passion. 
+Mit Kopf Herz und Hand bin auch ich für Sie da.
+
 <iframe src="https://app.Lumi.education/api/v1/run/v5qBFe/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
 **Stefan Hierholzer- Pädagogische Schulleitung**
 ===
-![Stefan Hierholzer] ()
-....
+![Stefan Hierholzer -Pädagogische Schulleitung](https://paedagogika.com/paedagogika/team/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=stefan-hierholzer.jpg)
+Hallo, mein Name ist Stefan Hierholzer, zusammen mit Andrea Hoppe darf ich die Pädagogika Fachschule in ihrer Entwicklung begleiten. Gebürtig aus Süddeutschland (Sindelfingen bei Stuttgart) habe ich in Lüneburg Lehramt an berufsbildenden Schulen, Fachrichtung Sozialpädagogik studiert und an verschiedenen Schulen und Hochschulen gearbeitet und gelehrt. Nun leiten Andrea Hoppe und ich zusammen die Geschicke der Pädagogika Fachschule für Sozialwesen. Bei Fragen stehe ich gerne zur Verfügung.
 <iframe src="https://app.Lumi.education/api/v1/run/NtlryH/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
 # Krankheit- und Abwesenheiten melden 💊
