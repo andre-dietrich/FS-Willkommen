@@ -121,4 +121,64 @@ Das Lernjournal ist ein Begleiter durch den Theorieunterricht über die gesamte 
 
 > 🛠 **Aufgabe**: Informiert euch bei den jeweiligen Links zu den Themen und ließ dir alles durch.
 
-<iframe src="https://app.Lumi.education/api/v1/run/ZN6gXx/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
+<iframe src="https://app.Lumi.education/api/v1/run/ZN6gXx/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+
+# Professions-, Lese-, Lern- und Recherchestrategien 🧩
+
+## Professionstheorie, Kompetenzbegriff und forschendes Lernen
+
+><aside>
+🛠 **Aufgabe**: Erarbeite dir die Begriffe 'DQR' und 'EQR', sowie 'Bachelor Professional' und ‘forschendes Lernen’, indem du dir die wichtigsten Aspekte aufschreibst und diese in der Kennenlernwoche mit uns diskutierst
+
+</aside>
+
+Die Ausbildung zur Erzieher*in findet auf dem DQR 6 Niveau statt, daher bekommt forschendes Lernen eine hohe Bedeutung. Letztlich bekommen Erzieher*innen am Ende der Ausbildung den Bachelor Professionell verliehen.
+
+<iframe src="https://app.Lumi.education/api/v1/run/6niwYQ/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+
+
+> <aside>
+🛠 **Aufgabe**: Erarbeite dir den Kompetenzbegriff und suche dir eine Lesestrategie heraus, die du deinen zukünftigen Mitstudierenden in der Kennenlernwoche erklärst.
+
+</aside>
+
+Damit forschendes Lernen auf DQR 6 Niveau bewerkstelligbar wird, bedarf es einiger Kompetenzen, u.a. Lese-, Lern- und Recherchekompetenzen, die an dieser Stelle thematisiert werden.
+
+<iframe src="https://app.Lumi.education/api/v1/run/34J0eT/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+
+## Lesekompetenzen
+> Der Begriff Lesekompetenz bedeutet daher nebem 
+> dem Erkennen von Buchstaben, Wörtern bzw. Sätzen und  zusätzlich auch den
+> Sinn des Gelesenen zu verstehen. Wobei diese Bestandteile in der 
+> Grundschule erlernt werden sollten. Der Wortschatz eines Menschen wird 
+> geprägt durch die Lesekompetenz und das Leseverhalten, und ist somit 
+> notwendig, um umfangreiche Texte verstehen zu können (vgl. McElvany et 
+> al. 2009, S.122). Ein wesentliches Merkmal der Lesekompetenz ist die 
+> Leseflüssigkeit, die sich aus den drei Aspekten Lesegenauigkeit, 
+> Lesegeschwindigkeit und Prosodie zusammensetzt. Erst 
+> Automatisierungsprozesse, denen eine verbesserte Dekodierung von 
+> Buchstaben und Wörtern zugrunde liegen, führen zu einem Lesen ohne 
+> Anstrengung, zu flüssigem und betontem Lesen, das die Aufmerksamkeit 
+> erst freisetzt für das eigentliche Verstehen eines Textes. Insofern 
+>verfügen erst flüssige Leser und Leserinnen über die Fähigkeit, bei 
+> parallel ablaufenden Dekodierprozessen Textverstehen und -reflexion 
+>hinsichtlich syntaktischer und semantischer Gesichtspunkte zu 
+> koordinieren und Bedeutungsinhalten durch prosodisches Lesen Ausdruck zu Lesen zu verleihen. [Stangel 2003](https://https://lexikon.stangl.eu/15873/lesekompetenz)
+
+### Lesestrategie(n) 👓
+Es gibt veschiedene Lesestrategien / Lesetechniken. Letztlich muss jeder und jede für sich entscheiden welche Strategie individuell die best passendste ist.
+
+<iframe src="https://app.Lumi.education/api/v1/run/p1tE8g/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+
+### Lernstrategien 🧑🏿‍💻
+> Lernstrategien, bezeichnen verhaltensbezogene und kognitive Vorgehensweisen, die zum Zwecke des Wissenserwerbs eingesetzt werden (Wissen). Sie sind vor allem deshalb von Bedeutung, da die Art der eingesetzten Lernstrategien in hohem Maße die Qualität des erworbenen Wissens (Verständnistiefe, Anwendbarkeit) beeinflußt. Dabei werden Lernstrategien auf unterschiedlichem Auflösungsniveau betrachtet. Auf einem groben Niveau werden unterschiedliche Lernstile betrachtet. Eine bekannte Unterscheidung differenziert zwischen oberflächenorientiertem und tiefenorientiertem Stil ("surface-level approach" vs. "deep-level appraoch"). Oberflächenorientiertes Lernen konzentriert sich auf das Auswendiglernen von einzelnen Fakten, während beim tiefenorientierten Vorgehen ein Verständnis von Zusammenhängen, Hintergründen etc. angezielt wird. Auf einer mittleren Ebene sind die Lernstrategien im engeren Sinne angesiedelt. Eine bekannte Einteilung unterscheidet Wiederholungs-, Organisations- (Herstellen von Verbindungen innerhalb des Lernstoffes) und Elaborationsstrategien (Herstellen von Verbindungen zwischen Lernstoff und Vorwissen). Auf einer feinen Auflösungsebene betrachtet man einzelne Vorgehensweisen wie etwa "In-eigenen-Worten-formulieren"; hier spricht man bisweilen auch von Lerntaktiken. Effektive Strategietrainings zu implementieren ist eine nicht ganz einfache und sehr aufwendige Angelegenheit, da Lernende in aller Regel an ihren alten Strategien hängen und nicht ohne weiteres bereit sind, diese aufzugeben. Dennoch wurden inzwischen Trainings entwickelt, deren Wirksamkeit als gut belegt gelten kann. Beispielsweise kann die Methode des Reziproken Lehrens ("reciprocal teaching") eingesetzt werden, um Lesestrategien und damit das Leseverständnis zu fördern. [Mandl; Friedrich 1992](https://www.spektrum.de/lexikon/psychologie/lernstrategien/8811)
+
+<iframe src="https://app.Lumi.education/api/v1/run/sQ5TY5/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+
+## Recherchestrategien 🔎
+
+Damit eine Nachforschung erfolgreich ist haben sich verschiedene Suchstrategien etabliert, die im Folgenden dargestellt werden.
+
+> Das Wort „Recherche“ kommt aus dem Französischen und bedeutet so viel wie „Ermittlung“ oder „Nachforschung.
+
+<iframe src="https://app.Lumi.education/api/v1/run/TIX-iL/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
