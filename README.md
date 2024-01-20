@@ -9,7 +9,7 @@ comment: Dieses Dokument dient der Begrüßung neuer studierender
 tags: Neue studierende, Pädagogika, Fachschule, Tutorial
 -->
 # Hallo und herzlich Willkommen an der Pädagogika Fachschule für Sozialwesen in Potsdam 
-![Pädagogika Fachschullogo] ()
+![Pädagogika Fachschullogo](https://paedagogika-fachschule.de/media/paedagogika-fachschule-weblogo.png)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Ih5EJC0iig?si=Hl4Wan7W8fLP2hg-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Hallo und herzlich willkommen an der [Pädagogika](https://paedagogika.com/) Fachschule für Sozialwesen. Ich bin Sigmund Freud, Siggi genannt. Ich helfe dir durch die Pädagogika Fachschule für Sozialwesen zu navigieren.
