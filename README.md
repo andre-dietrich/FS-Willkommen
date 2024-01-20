@@ -84,3 +84,14 @@ Bei Moodle handelt es sich um ein [Open-Source-Lern-Management-System](https://w
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FC-GWDvlX8c?si=jxmdlEt842MjB4ax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe src="https://app.Lumi.education/api/v1/run/zMeHFD/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
+
+# H5P und Lumi 🎲
+![h5p Logo]()
+Bei H5P handelt es sich um ein Open-Source-Produkt, mit dem interaktive (Lern-)Inhalte erstellt und verbreitet werden können. Der Vorteil von H5P ist, dass dies sowohl in Moodle integriert ist als auch unabhängig in Lumi generiert und verwendet werden kann. Auf dieser Seite wird zunächst Lumi vorgestellt, anschließend die H5P-Tools und dann gezeigt, wie H5P in Moodle integriert ist.
+
+> 🛠 **Aufgabe 1**: Erstelle einen Account bei Lumi und fertige eine interaktive Präsentation (Course Presentation) an, in der du auf maximal 4 Seiten beschreibst, wer du bist, weshalb du Erzieher*in werden möchtest, und warum du dich für die Pädagogik entschieden hast. In der Einführungswoche präsentierst du das dann.<
+
+> 🛠 **Aufgabe 2**: Lade dir lumi auf deinen Desktop herunter<
+
+
+<iframe src="https://app.Lumi.education/api/v1/run/OSNcSP/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
