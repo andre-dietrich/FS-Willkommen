@@ -105,10 +105,7 @@ Neben Google Drive oder OneDrive, die in ihren Grundstrukturen kostenfrei sind, 
 
 <iframe src="https://app.Lumi.education/api/v1/run/gGZZIx/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
 
-# Stundenprotokolle mit Markdown (HackMD/ CodiMD / LiaScript) 🔤
-![HackMD](60fd2c2993e79dc9f3d6e0259eb732aaceff62c1.png)
-![Codi MD](11d41ee796b888e093b851e61e4c4bb665d62df4.jpg)
-![Liascript](3fc9b6d7cb427655de75622f8aea8d93e45c465f.png)
+# Stundenprotokolle mit Markdown 🔤
 
 Grundsätzlich gilt, dass alle Lehrpersonen ihren Unterricht selbständig und nach eigenen Vorstellungen in Rückbezug auf den Rahmenlehrplan erstellen. Dessen ungeachtet lassen einige Lehrkräfte Stundenprotokolle anfertigen. Dies geschieht mit der [DGSVO](https://dsgvo-gesetz.de/)- Konformen Plattform HackMD / CodiMD / LiaScript.
 
@@ -119,3 +116,9 @@ Grundsätzlich gilt, dass alle Lehrpersonen ihren Unterricht selbständig und na
 
 <iframe src="https://app.Lumi.education/api/v1/run/8S2Ham/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
+# Das Lernjournal 📰
+Das Lernjournal ist ein Begleiter durch den Theorieunterricht über die gesamte Ausbildung hinweg. Auf der folgenden Seite wird gezeigt wie es aussieht, wie es zu führen ist und wozu es da ist.
+
+> 🛠 **Aufgabe**: Informiert euch bei den jeweiligen Links zu den Themen und ließ dir alles durch.
+
+<iframe src="https://app.Lumi.education/api/v1/run/ZN6gXx/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
