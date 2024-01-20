@@ -64,3 +64,17 @@ Keiner ist gerne krank... dennoch passiert dies nun mal, gerade wenn man neu im 
 > Prinzipiell gilt, dass alle Kranktage sofort und unverzüglich telefonisch bzw. via Mail zu melden sind, damit eine ordnungsgemäße Dokumentation erfolgen kann
 
 <iframe src="https://app.Lumi.education/api/v1/run/ZbjIQH/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
+
+# Unterrichtsfreistellung 🆓
+Es besteht die Möglichkeit, vom Unterricht unter bestimmten 
+Bedingungen freigestellt zu werden. Freistellungsgründe sind u.a. 
+hausinterne Fortbildungen, die sich inhaltlich mit Themen des 
+fachschulischen Curriculums decken.
+
+Eine Unterrichtsfreistellung ist mindestens 14 Tage vor dem 
+Freistellungsgesuch schriftlich anzuzeigen und durch die Klassenleitung 
+bzw. Schulleitung genehmigen zu lassen. Ausschließlich die Studierenden 
+sind antragsberechtigt.
+
+Hier finden sich die [Freistellungsunterlagen](https://cloud.die-kinderwelt.com/s/xaDPddjGDweYjTy). Die Unterlagen sind auch in der Studierendenhandakte unter ‘**Unterrichtsfreistellung’** zu finden.
+
