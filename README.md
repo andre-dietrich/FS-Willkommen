@@ -27,3 +27,33 @@ Es sind viele Menschen notwendig, damit du eine qualitativ hochwertige Ausbildun
 
 **Nadine Linde - Das Herz der Pädagogika**
 ===
+![Nadine Linde] ()
+
+Herzlich Willkommen in der PÄDAGOGIKA Fachschule! Ich freue mich darauf euch
+kennenzulernen und werde euch jeden Tag am Empfang begrüßen. Mein Name ist Nadine Linde, ich bin Kindheitspädagogin und war zu Beginn meiner beruflichen Laufbahn als Erzieherin in einer Kita tätig. Während meines Masterstudiums „frühkindliche
+Bildungsforschung“ konnte ich Erfahrungen in Forschungsprojekten und als Dozentin in der Forscherwelt Blossin sammeln. Seit 2021 bin ich Mitarbeiterin der Pädagogika und als eine Art Verbindungsstelle zwischen Praxis und Forschung übernehme ich die Orga-nisation und Verwaltung unseres Weiterbildungsprogrammes sowie das Sekretariat der Fachschule. Gern bin ich für jegliche Fragen, Anmerkungen und andere Belange von eu-rer Seite da. Sprecht mich einfach an.
+<iframe src="https://app.Lumi.education/api/v1/run/Kbms6R/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+
+**Anja Günther-Richter - Das Head of**
+===
+![Anja Günther-Richter] ()
+....
+<iframe src="https://app.Lumi.education/api/v1/run/PY538J/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+
+**Sandra Schmidt- Das Head of +2**
+===
+![Sandra Schmidt] ()
+....
+<iframe src="https://app.Lumi.education/api/v1/run/2-Yd3_/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+
+**Andrea Hoppe- Organisatorische Schulleitung**
+===
+![Andrea Hoppe] ()
+....
+<iframe src="https://app.Lumi.education/api/v1/run/v5qBFe/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+
+**Stefan Hierholzer- Pädagogische Schulleitung**
+===
+![Stefan Hierholzer] ()
+....
+<iframe src="https://app.Lumi.education/api/v1/run/NtlryH/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
