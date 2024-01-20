@@ -21,3 +21,9 @@ Zusätzlich findest du nützliche Tipps zu Themen wie Lesetechniken, Recherchest
 Natürlich zeige ich dir auch, wer in der Pädagogik wofür zuständig ist.
 
 Und nicht zu vergessen: Ich stelle dir einen Kalender zur Verfügung, in dem du alle wichtigen Termine rund um deine Ausbildung eintragen kannst.
+
+# Das Who ist who der Pädagogika 🧑‍🤝‍🧑
+Es sind viele Menschen notwendig, damit du eine qualitativ hochwertige Ausbildung absolvieren kannst. Auf dieser Seite werden die fleißigen Helferlein vorstellen.
+
+**Nadine Linde - Das Herz der Pädagogika**
+===
