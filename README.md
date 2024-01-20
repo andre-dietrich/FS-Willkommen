@@ -95,3 +95,12 @@ Bei H5P handelt es sich um ein Open-Source-Produkt, mit dem interaktive (Lern-)I
 
 
 <iframe src="https://app.Lumi.education/api/v1/run/OSNcSP/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+
+# Cryptpad - die datenschutzkonforme Cloud 🖥
+![Cryptpaed Logo]()
+
+Neben Google Drive oder OneDrive, die in ihren Grundstrukturen kostenfrei sind, existieren auch [DSGVO](https://dsgvo-gesetz.de/)-konforme [Clouds](https://www.ionos.de/digitalguide/server/knowhow/was-ist-eine-cloud/). Im Gegensatz zu Google oder Microsoft erhebt die DSGVO-konforme Cloud  keine Daten.
+
+>🛠 **Aufgabe**: Erstelle dir einen Account bei Cryptpad, wenn du keine andere Cloudoption hast bzw. eine Datenschutzkonforme -variante haben möchtest.
+
+<iframe src="https://app.Lumi.education/api/v1/run/gGZZIx/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
