@@ -57,3 +57,10 @@ Bildungsforschung“ konnte ich Erfahrungen in Forschungsprojekten und als Dozen
 ![Stefan Hierholzer] ()
 ....
 <iframe src="https://app.Lumi.education/api/v1/run/NtlryH/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+
+# Krankheit- und Abwesenheiten melden 💊
+Keiner ist gerne krank... dennoch passiert dies nun mal, gerade wenn man neu im sozialpädagogischen Arbeitsfeld ist und damit im Dauerkontakt zu Menschen steht.
+
+> Prinzipiell gilt, dass alle Kranktage sofort und unverzüglich telefonisch bzw. via Mail zu melden sind, damit eine ordnungsgemäße Dokumentation erfolgen kann
+
+<iframe src="https://app.Lumi.education/api/v1/run/ZbjIQH/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
