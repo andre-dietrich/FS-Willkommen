@@ -104,3 +104,18 @@ Neben Google Drive oder OneDrive, die in ihren Grundstrukturen kostenfrei sind, 
 >🛠 **Aufgabe**: Erstelle dir einen Account bei Cryptpad, wenn du keine andere Cloudoption hast bzw. eine Datenschutzkonforme -variante haben möchtest.
 
 <iframe src="https://app.Lumi.education/api/v1/run/gGZZIx/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
+
+# Stundenprotokolle mit Markdown (HackMD/ CodiMD / LiaScript) 🔤
+![HackMD](60fd2c2993e79dc9f3d6e0259eb732aaceff62c1.png)
+![Codi MD](11d41ee796b888e093b851e61e4c4bb665d62df4.jpg)
+![Liascript](3fc9b6d7cb427655de75622f8aea8d93e45c465f.png)
+
+Grundsätzlich gilt, dass alle Lehrpersonen ihren Unterricht selbständig und nach eigenen Vorstellungen in Rückbezug auf den Rahmenlehrplan erstellen. Dessen ungeachtet lassen einige Lehrkräfte Stundenprotokolle anfertigen. Dies geschieht mit der [DGSVO](https://dsgvo-gesetz.de/)- Konformen Plattform HackMD / CodiMD / LiaScript.
+
+> <aside>
+🛠 ** Aufgabe**: Erstelle dir einen Account bei [HackMD](https://hackmd.okfn.de/).
+
+</aside>
+
+<iframe src="https://app.Lumi.education/api/v1/run/8S2Ham/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+
