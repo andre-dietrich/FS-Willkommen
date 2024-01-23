@@ -5,7 +5,7 @@ logo:
 version 0.0.1
 Language: de
 narration: Deutsche Female
-comment: Dieses Dokument dient der Begrüßung neuer studierender
+comment: Dieses Dokument dient der Begrüßung neuer Studierender
 tags: Neue studierende, Pädagogika, Fachschule, Tutorial
 -->
 # Hallo und herzlich Willkommen an der Pädagogika Fachschule für Sozialwesen in Potsdam 
