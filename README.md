@@ -4,7 +4,7 @@ email: stefan.hierholzer@paedagogika.com
 logo:
 version 0.0.1
 Language: de
-narration: Deutsche Female
+narrato: Deutsch Male
 comment: Dieses Dokument dient der Begrüßung neuer Studierender
 tags: Neue studierende, Pädagogika, Fachschule, Tutorial
 -->
