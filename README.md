@@ -59,6 +59,14 @@ Mit Kopf Herz und Hand bin auch ich für Sie da.
 Hallo, mein Name ist Stefan Hierholzer, zusammen mit Andrea Hoppe darf ich die Pädagogika Fachschule in ihrer Entwicklung begleiten. Gebürtig aus Süddeutschland (Sindelfingen bei Stuttgart) habe ich in Lüneburg Lehramt an berufsbildenden Schulen, Fachrichtung Sozialpädagogik studiert und an verschiedenen Schulen und Hochschulen gearbeitet und gelehrt. Nun leiten Andrea Hoppe und ich zusammen die Geschicke der Pädagogika Fachschule für Sozialwesen. Bei Fragen stehe ich gerne zur Verfügung.
 <iframe src="https://app.Lumi.education/api/v1/run/NtlryH/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
+**Susanne Urban**
+===
+![Susanne Urban - Pädagogische begleitung](https://paedagogika.com/paedagogika/team/index.php?rex_media_type=tinymcewysiwyg&rex_media_file=susanne-urban.jpg)
+
+Praxiskoordinatorin
+<iframe src="https://app.Lumi.education/api/v1/run/9LCWWi/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+
+
 # Krankheit- und Abwesenheiten melden 💊
 Keiner ist gerne krank... dennoch passiert dies nun mal, gerade wenn man neu im sozialpädagogischen Arbeitsfeld ist und damit im Dauerkontakt zu Menschen steht.
 
