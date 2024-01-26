@@ -88,14 +88,14 @@ sind antragsberechtigt.
 Hier finden sich die [Freistellungsunterlagen](https://cloud.die-kinderwelt.com/s/xaDPddjGDweYjTy). Die Unterlagen sind auch in der Studierendenhandakte unter ‘**Unterrichtsfreistellung’** zu finden.
 
 # Moodle - unser Lernmanagementsystem 
-![moodle icon]()
+![moodle icon](https://tracker.moodle.org/secure/attachment/62695/Mobile-M-Icon-1-corners.png)
 Bei Moodle handelt es sich um ein [Open-Source-Lern-Management-System](https://www.redhat.com/de/topics/open-source/what-is-open-source), das ermöglicht, gemeinschaftlich Unterrichtsgegenstände abzulegen, zu verändern und weiterzubearbeiten, und über die Funktion 'Forum' in Kontakt zu bleiben. Schaut das folgende Video bis Minute 3:55 an
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FC-GWDvlX8c?si=jxmdlEt842MjB4ax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe src="https://app.Lumi.education/api/v1/run/zMeHFD/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
 
 # H5P und Lumi 🎲
-![h5p Logo]()
+![h5p Logo](https://upload.wikimedia.org/wikipedia/commons/9/9d/H5P_Logo.svg)
 Bei H5P handelt es sich um ein Open-Source-Produkt, mit dem interaktive (Lern-)Inhalte erstellt und verbreitet werden können. Der Vorteil von H5P ist, dass dies sowohl in Moodle integriert ist als auch unabhängig in Lumi generiert und verwendet werden kann. Auf dieser Seite wird zunächst Lumi vorgestellt, anschließend die H5P-Tools und dann gezeigt, wie H5P in Moodle integriert ist.
 
 > 🛠 **Aufgabe 1**: Erstelle einen Account bei Lumi und fertige eine interaktive Präsentation (Course Presentation) an, in der du auf maximal 4 Seiten beschreibst, wer du bist, weshalb du Erzieher*in werden möchtest, und warum du dich für die Pädagogik entschieden hast. In der Einführungswoche präsentierst du das dann.<
