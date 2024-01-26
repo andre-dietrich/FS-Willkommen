@@ -155,7 +155,7 @@ Damit forschendes Lernen auf DQR 6 Niveau bewerkstelligbar wird, bedarf es einig
 
 <iframe src="https://app.Lumi.education/api/v1/run/34J0eT/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
-## Lesekompetenzen
+## Lesekompetenzen 📖
 > Der Begriff Lesekompetenz bedeutet daher nebem 
 > dem Erkennen von Buchstaben, Wörtern bzw. Sätzen und  zusätzlich auch den
 > Sinn des Gelesenen zu verstehen. Wobei diese Bestandteile in der 
