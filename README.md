@@ -87,7 +87,7 @@ sind antragsberechtigt.
 
 Hier finden sich die [Freistellungsunterlagen](https://cloud.die-kinderwelt.com/s/xaDPddjGDweYjTy). Die Unterlagen sind auch in der Studierendenhandakte unter ‘**Unterrichtsfreistellung’** zu finden.
 
-# Moodle - unser Lernmanagementsystem 
+# Moodle - unser Lernmanagementsystem :desktop_computer:
 ![moodle icon](https://tracker.moodle.org/secure/attachment/62695/Mobile-M-Icon-1-corners.png)
 Bei Moodle handelt es sich um ein [Open-Source-Lern-Management-System](https://www.redhat.com/de/topics/open-source/what-is-open-source), das ermöglicht, gemeinschaftlich Unterrichtsgegenstände abzulegen, zu verändern und weiterzubearbeiten, und über die Funktion 'Forum' in Kontakt zu bleiben. Schaut das folgende Video bis Minute 3:55 an
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FC-GWDvlX8c?si=jxmdlEt842MjB4ax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
